@@ -1,7 +1,7 @@
 # app.py
 import json
 import streamlit as st
-from recommend import df, recommend_movies
+from src.recommend import df, recommend_movies
 from omdb_utils import get_movie_details
 
 

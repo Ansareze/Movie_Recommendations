@@ -20,3 +20,5 @@
 [2025-06-18 01:21:45,419] INFO - ✅ df_cleaned.pkl loaded.
 [2025-06-18 01:21:45,420] INFO - 🔠 Generating cosine similarity matrix...
 [2025-06-18 01:21:46,419] INFO - ✅ Cosine similarity matrix generated.
+[2025-06-18 01:25:04,746] INFO - 🎬 Recommending movies for: '17 Again'
+[2025-06-18 01:25:04,799] INFO - ✅ Top 5 recommendations ready.
