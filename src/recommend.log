@@ -1,0 +1,6 @@
+[2025-06-18 01:04:41,891] INFO - 🔁 Loading cleaned dataset...
+[2025-06-18 01:04:41,927] INFO - ✅ df_cleaned.pkl loaded.
+[2025-06-18 01:04:41,929] INFO - 🔠 Generating cosine similarity matrix...
+[2025-06-18 01:04:42,644] INFO - ✅ Cosine similarity matrix generated.
+[2025-06-18 01:04:48,193] INFO - 🎬 Recommending movies for: '10th & Wolf'
+[2025-06-18 01:04:48,204] INFO - ✅ Top 5 recommendations ready.
