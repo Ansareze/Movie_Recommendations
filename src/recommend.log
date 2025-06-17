@@ -28,3 +28,7 @@
 [2025-06-18 01:38:28,749] INFO - ✅ Cosine similarity matrix generated.
 [2025-06-18 01:43:30,000] INFO - Ignored error after process had died: OSError(9, 'The handle is invalid', None, 6, None)
 [2025-06-18 01:43:30,002] INFO - Ignored error after process had died: OSError(9, 'The handle is invalid', None, 6, None)
+[2025-06-18 01:45:08,922] INFO - 🔁 Loading cleaned dataset...
+[2025-06-18 01:45:08,970] INFO - ✅ df_cleaned.pkl loaded.
+[2025-06-18 01:45:08,970] INFO - 🔠 Generating cosine similarity matrix...
+[2025-06-18 01:45:10,200] INFO - ✅ Cosine similarity matrix generated.

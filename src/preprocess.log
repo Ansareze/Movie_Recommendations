@@ -22,3 +22,9 @@
 [2025-06-18 01:38:15,361] INFO - ✅ Text cleaned.
 [2025-06-18 01:38:15,391] INFO - 💾 df_cleaned.pkl saved.
 [2025-06-18 01:38:15,391] INFO - ✅ Preprocessing complete.
+[2025-06-18 01:50:42,708] INFO - 🚀 Starting preprocessing...
+[2025-06-18 01:50:43,905] INFO - ✅ Dataset loaded successfully. Total rows: 4803
+[2025-06-18 01:50:43,926] INFO - 🧹 Cleaning text...
+[2025-06-18 01:50:45,424] INFO - ✅ Text cleaned.
+[2025-06-18 01:50:45,452] INFO - 💾 df_cleaned.pkl saved.
+[2025-06-18 01:50:45,453] INFO - ✅ Preprocessing complete.
